@@ -39,18 +39,18 @@ O sistema foi desenvolvido para auxiliar no gerenciamento diário de um posto de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Tester-posto-combustivel.git
-   cd Tester-posto-combustivel
+   git clone https://github.com/GilvanPedro/CadastroPosto.git
+   cd CadastroPosto
    ```
 
 2. Compile os arquivos Java:
    ```bash
-   javac src/*.java -d out/production/Tester-posto-combustivel
+   javac src/*.java -d out/production/CadastroPosto
    ```
 
 3. Execute o programa:
    ```bash
-   java -cp out/production/Tester-posto-combustivel Main
+   java -cp out/production/CadastroPosto Main
    ```
 
 ## 🖥️ Como Usar
